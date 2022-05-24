@@ -1,3 +1,3 @@
-# typescript vite template for debug
+# typescript vite starter
 
-typescript tutorial learning note.
+typescript vite tempalte for library or debug
